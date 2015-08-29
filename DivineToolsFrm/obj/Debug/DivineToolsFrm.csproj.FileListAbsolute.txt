@@ -1,0 +1,9 @@
+c:\users\viktor\documents\visual studio 2015\Projects\DivineToolsFrm\DivineToolsFrm\bin\Debug\DivineToolsFrm.exe.config
+c:\users\viktor\documents\visual studio 2015\Projects\DivineToolsFrm\DivineToolsFrm\bin\Debug\DivineToolsFrm.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DivineToolsFrm\DivineToolsFrm\bin\Debug\DivineToolsFrm.pdb
+c:\users\viktor\documents\visual studio 2015\Projects\DivineToolsFrm\DivineToolsFrm\obj\Debug\DivineToolsFrm.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2015\Projects\DivineToolsFrm\DivineToolsFrm\obj\Debug\DivineToolsFrm.Form1.resources
+c:\users\viktor\documents\visual studio 2015\Projects\DivineToolsFrm\DivineToolsFrm\obj\Debug\DivineToolsFrm.Properties.Resources.resources
+c:\users\viktor\documents\visual studio 2015\Projects\DivineToolsFrm\DivineToolsFrm\obj\Debug\DivineToolsFrm.csproj.GenerateResource.Cache
+c:\users\viktor\documents\visual studio 2015\Projects\DivineToolsFrm\DivineToolsFrm\obj\Debug\DivineToolsFrm.exe
+c:\users\viktor\documents\visual studio 2015\Projects\DivineToolsFrm\DivineToolsFrm\obj\Debug\DivineToolsFrm.pdb
